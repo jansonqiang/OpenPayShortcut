@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">快捷支付</string>
+    <string name="app_name">支付</string>
 
     <string name="alipay_fukuan">付款（支）</string>
     <string name="alipay_scan">扫码（支）</string>
